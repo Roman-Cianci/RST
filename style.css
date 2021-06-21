@@ -1,0 +1,20 @@
+body {
+  background-color: rgb(163, 169, 206);
+  color: rgb(0, 0, 0);
+  font-family:momospace;
+  font-size: 170%;
+}
+
+.container {
+  border: 5px solid black;
+  text-align: center;
+  position: static;
+  padding: 4px;
+  font-size: 150;
+}
+
+.text {
+  color: rgb(224, 44, 44);
+  font-family: monospace;
+  font-size: 100%;
+}
